@@ -329,3 +329,4 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 /Battery_Model/Peak_Shave
+/Battery_Dispatch/Battery_Dispatch/Charge.py
